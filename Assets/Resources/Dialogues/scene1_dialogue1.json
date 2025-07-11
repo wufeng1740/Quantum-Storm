@@ -1,0 +1,28 @@
+[
+  {
+    "speaker": "NPC1",
+    "side": "left",
+    "avatar": "npc_1",
+    "text": "Welcome to our world, brave one.",
+    "background": "bg_1"
+  },
+  {
+    "speaker": "player",
+    "side": "right",
+    "avatar": "player",
+    "text": "I am ready."
+  },
+  {
+    "speaker": "NPC1",
+    "side": "left",
+    "avatar": "npc_1",
+    "text": "Then your journey begins now.",
+    "background": "bg_2"
+  },
+  {
+    "speaker": "player",
+    "side": "right",
+    "avatar": "player",
+    "text": "Let’s go!"
+  }
+]

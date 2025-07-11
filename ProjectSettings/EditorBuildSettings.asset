@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartFirst.unity
+    guid: 7450de2d798e5934bbce3dbdbf0f8424
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 919b87aae4d1d9c4bbf559e20360156c
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: e03b185a55c960444b50b86343cd5612
+  - enabled: 1
+    path: Assets/Scenes/story0.unity
+    guid: ba3e0baaa07030b49b83df4bcb184964
+  - enabled: 1
+    path: Assets/Scenes/story1.unity
+    guid: 031f17cb88093d546b04669e54aef8b4
+  - enabled: 1
+    path: Assets/Scenes/story2.unity
+    guid: 38548a814726d3e4887b21788b4dc0bd
+  - enabled: 1
+    path: Assets/Scenes/story3.unity
+    guid: e4087f771da0c804ba05a447b62d812e
+  - enabled: 1
+    path: Assets/Scenes/story4.unity
+    guid: e0f267531b99ccb4d82288b7738a5c01
+  - enabled: 1
+    path: Assets/Scenes/story5.unity
+    guid: ffb75fcb097f9f94290864be68c7b19d
+  - enabled: 1
+    path: Assets/Scenes/story6.unity
+    guid: c4ee51dd9c9d45c44a1293cc65338fcb
+  - enabled: 1
+    path: Assets/Scenes/story7.unity
+    guid: 94bbdbc829b6a3c4a91300ea67575028
+  - enabled: 1
+    path: Assets/Scenes/story8.unity
+    guid: efe60f33c31eb3149b993a04a9ec9424
+  - enabled: 1
+    path: Assets/Scenes/GameLevel/Level_01.unity
+    guid: 6d0cc80ae645b49d6bc2c00699d47448
+  - enabled: 1
+    path: Assets/Scenes/GameLevel/Level_02.unity
+    guid: 5ff452a6cc262493a8a1509a77f865cf
+  - enabled: 1
+    path: Assets/Scenes/GameLevel/Level_03.unity
+    guid: 9a8953b8a91114e0daa3d4eed4f14407
+  - enabled: 1
+    path: Assets/Scenes/GameLevel/Level_04.unity
+    guid: 8d2e968286c824f7c8c0573468590808
+  - enabled: 1
+    path: Assets/Scenes/GameLevel/Level_05.unity
+    guid: c9b5ebea672964dc9b15e35194c16595
+  - enabled: 1
+    path: Assets/Scenes/GameLevel/Level_06.unity
+    guid: a9b16f503bbee48ac8c38b62003f7195
+  - enabled: 1
+    path: Assets/Scenes/GameLevel/Level_07.unity
+    guid: 8de7b31a0b92e45a986da7a3c95bcc3c
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 081c322ea3fa895409d27c8375d7ad27
+  - enabled: 1
+    path: Assets/Scenes/QuMachine.unity
+    guid: a0e36abc82677427ab3bb0e342f809e4
+  - enabled: 1
+    path: Assets/Scenes/Chat.unity
+    guid: 44df21c37a4bdbc44b0b338ca8dca019
+  - enabled: 1
+    path: Assets/Scenes/InfoPanel.unity
+    guid: ad88ed3ed0bc61a4382251a01a975389
+  - enabled: 1
+    path: Assets/Scenes/InGameUI.unity
+    guid: 0c4c7644afdf01a418c8ba42ec423f74
+  - enabled: 1
+    path: Assets/Scenes/LevelFrame.unity
+    guid: 180b51ea36f138d4c8f7264e665f6eaa
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: a8bc2841d0d31f741820672156953383, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+    com.unity.localization.settings: {fileID: 11400000, guid: 75d2001586441ec4d8ed939bb22c9cc5, type: 2}
+  m_UseUCBPForAssetBundles: 0
