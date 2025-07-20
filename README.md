@@ -21,19 +21,19 @@ Players board a damaged space station and must master qubits, superposition, ent
 
 - Main Menu
 
-![2 - main menu](/Users/wufeng/GitHub/Quantum-Storm/Others/Game Scenes Screenshots/2 - main menu.png)
+![2 - main menu](./Others/Game Scenes Screenshots/2 - main menu.png)
 
 - Story 0
 
-![4 - story 0](/Users/wufeng/GitHub/Quantum-Storm/Others/Game Scenes Screenshots/4 - story 0.png)
+![4 - story 0](./Others/Game Scenes Screenshots/4 - story 0.png)
 
 - Main Charecters
 
-![5 - story 1](/Users/wufeng/GitHub/Quantum-Storm/Others/Game Scenes Screenshots/5 - story 1.png)
+![5 - story 1](./Others/Game Scenes Screenshots/5 - story 1.png)
 
 - Game Level
 
-![13 - level 5](/Users/wufeng/GitHub/Quantum-Storm/Others/Game Scenes Screenshots/13 - level 5.png)
+![13 - level 5](./Others/Game Scenes Screenshots/13 - level 5.png)
 
 
 
